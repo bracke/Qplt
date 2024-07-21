@@ -1,4 +1,6 @@
 # Qplt
+[![Alire](https://img.shields.io/endpoint?url=https://alire.ada.dev/badges/qplt.json)](https://alire.ada.dev/crates/qplt.html)
+
 Quick Plot: an Ada-GUI program to quickly produce a plot of a data set
 
 ## Usage
